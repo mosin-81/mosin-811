@@ -37,10 +37,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 <a href="https://new-portfolio-red-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio Badge"/>
 </a>
-<a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> *(Optional)*
-</a>
-<a href="mailto:your_email@example.com">
+<a href="mailto:khanmosinahemad@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> *(Optional)*
 </a>
 
