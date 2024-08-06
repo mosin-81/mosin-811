@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 
 ## 🚀 About Me
 
-- 🌍 Based in [Your Location]
-- 🔭 Currently working on [Current Project or Job]
-- 🌱 Learning [New Technology or Skill]
+- 🌍 Based in Odisha
+- 🔭 Currently working on Final year project
+- 🌱 Learning New Technology or Skills
 - 👯 Looking to collaborate on innovative projects
-- 🤔 Fun fact: [A Fun or Interesting Fact About You]
+- 🤔 Fun fact: Very unstale 
 
 ## 🔥 GitHub Stats
 
@@ -42,11 +42,8 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 
 ## 📚 Projects
 
-Here are some of the projects I've worked on:
+For the projects I've worked on kindly vist my portfolio or my repos for detailed info with the source code .
 
-- **[Project 1](https://github.com/your_username/project1)**: A brief description of Project 1.
-- **[Project 2](https://github.com/your_username/project2)**: A brief description of Project 2.
-- **[Project 3](https://github.com/your_username/project3)**: A brief description of Project 3.
 
 ## 📈 Contributions
 
