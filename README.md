@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio Badge"/>
 </a>
 <a href="mailto:khanmosinahemad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> *(Optional)*
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> 
 </a>
 
 ## 📚 Projects
